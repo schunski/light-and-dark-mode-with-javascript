@@ -5,7 +5,11 @@
 <p align="center">
 	<b><i>HTML, CSS & JavaScript.</i></b><br>
 </p>
-  
+
+<p align="center">
+	<img src="assets/img/giphy.gif"/>	
+</p>
+
 This is an application created by me where you can switch between dark and light theme and can be applied on websites.
 
   
